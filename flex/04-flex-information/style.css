@@ -33,7 +33,10 @@ img {
   gap: 52px;
   margin-top: 32px;
 }
-
-.plantTitle {
+ .plantTitle { 
   max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
